@@ -1,4 +1,4 @@
-# CRM
+# CRM Data Mining
 
 This report is an extension of an implementation of a data mining framework from the significant paper *An Efficient CRM-Data Mining Framework for the Prediction of Customer Behavior*, which proposed a framework that can predict customers’ decision on campaigns from financial institutions by building models on the given dataset. 
 
